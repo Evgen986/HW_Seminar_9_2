@@ -3,7 +3,7 @@ from tic_tac_toe import game
 from calc import model_racional as mr
 import log_generate as lg
 
-bot = telebot.TeleBot('5841865362:AAGe-mekNEv9gYIPrV8kxAA6eNihfpSGJrU')
+bot = telebot.TeleBot('TOKEN')
 chat_id = ''
 dic = {}
 
